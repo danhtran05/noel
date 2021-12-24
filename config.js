@@ -1,8 +1,8 @@
-const nameGirl = 'Cobe m52';
+const nameGirl = 'Người anh yêu';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Chúc Mừng Sinh Nhật';
-const titleCard = 'Tặng người bạn cùng bàn';
-const contentCard = 'Bạn cùng bàn sinh nhật 🎂 zui zẻ .Chúc bạn ngày càng học giỏi và ngày xinh đẹp Học giỏi để còn gánh mình😂';
-const giftImage = 'ny.png';
+const eventName = 'Chúc noel vui vẻ';
+const titleCard = 'Người con gái anh yêu';
+const contentCard = 'Chúc em có một ngày noel hạnh phúc và vui vẻ bên gia đình của mình';
+const giftImage = 'vy.png';
 const base64 = '';
 const giftImageBase64 = "data:image/png;base64, " + base64;
